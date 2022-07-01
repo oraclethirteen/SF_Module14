@@ -331,7 +331,7 @@ namespace SF_Module14
             public long PhoneNumber { get; }
             public string Email { get; }
 
-            public Contact(string name, string lastName, long phoneNumber, String email)
+            public Contact(string name, string lastName, long phoneNumber, string email)
             {
                 Name = name;
                 LastName = lastName;
