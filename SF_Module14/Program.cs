@@ -326,10 +326,10 @@ namespace SF_Module14
         /*
         public class Contact
         {
-            public String Name { get; }
-            public String LastName { get; }
+            public string Name { get; }
+            public string LastName { get; }
             public long PhoneNumber { get; }
-            public String Email { get; }
+            public string Email { get; }
 
             public Contact(string name, string lastName, long phoneNumber, String email)
             {
